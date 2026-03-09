@@ -18,6 +18,6 @@
 
 ## Requisitos no funcionales
 - RNF1: El sistema debe de dar respuesta en menos de 1 segundo
-- RFN2: El sistema debe garantizar la seguridad de los datos personales de los usuarios.
-- RFN3: El sistema debe de funcionar el 100% del tiempo de atencion al cliente
-- RFN4: El sistema debe de ser funcional tanto en dispositivos moviles como en computadores
+- RNF2: El sistema debe garantizar la seguridad de los datos personales de los usuarios.
+- RNF3: El sistema debe de funcionar el 100% del tiempo de atencion al cliente
+- RNF4: El sistema debe de ser funcional tanto en dispositivos moviles como en computadores
