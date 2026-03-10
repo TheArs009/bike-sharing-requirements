@@ -21,3 +21,11 @@
 - RNF2: El sistema debe garantizar la seguridad de los datos personales de los usuarios.
 - RNF3: El sistema debe de funcionar el 100% del tiempo de atencion al cliente
 - RNF4: El sistema debe de ser funcional tanto en dispositivos moviles como en computadores
+## + requisitos
+
+## requisito funcional
+- El sistema debe permitir devolver bicicletas desde la aplicación. 
+
+
+## requisito no funcional
+- El sistema debe responder a las solicitudes del usuario en menos de 2 segundos.
